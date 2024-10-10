@@ -10,7 +10,7 @@ Live demo of the project is hosted on **Netlify**. 🚀
 
 Check out the live demo of the project here:
 
-[Earth Demo on Netlify](https://your-netlify-link-here.netlify.app) 🌍
+[Earth Demo on Netlify](https://earth-threejs-harman.netlify.app/) 🌍
 
 ## 🖼️ Preview
 
